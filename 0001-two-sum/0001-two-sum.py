@@ -5,10 +5,10 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        num_map = {}
+        num_map = {}   # Dictionary to store numbers and their indices
         for i, num in enumerate(nums):
             complement =  target - num
             if complement in num_map:
-                return [num_map[complement], i]
-            num_map[num] = i
+                return [num_map[complement], i] # Return indices of two numbers
+            num_map[num] = i   # Store the index of the current number in the Dictionary
         
