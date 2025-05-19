@@ -5,9 +5,10 @@ class Solution(object):
         :type target: int
         :rtype: List[int]
         """
-        seen = {}
-        for i, ele in enumerate(nums):
-            complement = target - ele
-            if complement in seen:
-                return [seen[complement], i]
-            seen[ele] = i
+        num_map = {}
+        for i, num in enumerate(nums):
+            complement =  target - num
+            if complement in num_map:
+                return [num_map[complement], i]
+            num_map[num] = i
+        
