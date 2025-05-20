@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0001-two-sum) |
 | [0015-3sum](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0015-3sum) |
+| [0046-permutations](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0046-permutations) |
 ## Hash Table
 |  |
 | ------- |
@@ -20,4 +21,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0015-3sum](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0015-3sum) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
