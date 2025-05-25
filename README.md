@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0283-move-zeroes) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -26,6 +27,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0075-sort-colors) |
 | [0283-move-zeroes](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0344-reverse-string) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
 | ------- |
@@ -52,4 +54,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
+## Simulation
+|  |
+| ------- |
+| [2271-rearrange-array-elements-by-sign](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 <!---LeetCode Topics End-->
