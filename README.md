@@ -63,4 +63,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2271-rearrange-array-elements-by-sign](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+## Database
+|  |
+| ------- |
+| [0175-combine-two-tables](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0175-combine-two-tables) |
 <!---LeetCode Topics End-->
