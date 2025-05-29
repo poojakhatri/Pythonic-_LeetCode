@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0018-4sum](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0018-4sum) |
 | [0046-permutations](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0046-permutations) |
 | [0075-sort-colors](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
@@ -27,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0015-3sum](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0018-4sum) |
 | [0075-sort-colors](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0075-sort-colors) |
+| [0189-rotate-array](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0349-intersection-of-two-arrays) |
@@ -72,4 +74,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0183-customers-who-never-order](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0183-customers-who-never-order) |
 | [0196-delete-duplicate-emails](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0577-employee-bonus) |
+## Math
+|  |
+| ------- |
+| [0189-rotate-array](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0189-rotate-array) |
 <!---LeetCode Topics End-->
