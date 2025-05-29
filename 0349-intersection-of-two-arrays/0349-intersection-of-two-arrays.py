@@ -5,10 +5,7 @@ class Solution(object):
         :type nums2: List[int]
         :rtype: List[int]
         """
-        result = []
-        for ele in nums1:
-            if ele in nums2 and ele not in result:
-                result.append(ele)
+        result = [ele for ele in set(nums1) if ele in set(nums2)]
         return result
 
 
