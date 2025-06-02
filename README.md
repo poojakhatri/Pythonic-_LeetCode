@@ -19,12 +19,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0442-find-all-duplicates-in-an-array](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Hash Table
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0001-two-sum) |
 | [0349-intersection-of-two-arrays](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Two Pointers
 |  |
 | ------- |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0189-rotate-array) |
+| [3581-the-two-sneaky-numbers-of-digitville](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
 | ------- |
