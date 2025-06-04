@@ -5,11 +5,10 @@ class Solution(object):
         :rtype: int
         """
         total = 0
-        max_= nums[0]
-
+        result = nums[0]
         for ele in nums:
             if total < 0:
                 total = 0
-            total += ele
-            max_ = max(max_, total)
-        return max_
+            total+=ele
+            result = max(total, result)
+        return result
