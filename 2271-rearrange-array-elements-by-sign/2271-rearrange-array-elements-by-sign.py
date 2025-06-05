@@ -4,10 +4,13 @@ class Solution(object):
         :type nums: List[int]
         :rtype: List[int]
         """
-        positive = [num for num in nums if num > 0]
-        negative = [num for num in nums if num < 0]
-        result = []
-        for i in range(len(positive)):
-            result.append(positive[i])
-            result.append(negative[i])
+        result = [0]* len(nums)
+        pos, neg = 0, 1
+        for num in nums:
+            if num > 0:
+                result[pos] = num
+                pos += 2
+            else:
+                result[neg] = num
+                neg += 2
         return result
