@@ -75,6 +75,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [1048-clumsy-factorial](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/1048-clumsy-factorial) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Database
 |  |
@@ -90,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0273-integer-to-english-words) |
+| [1048-clumsy-factorial](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/1048-clumsy-factorial) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
 |  |
@@ -103,4 +105,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0560-subarray-sum-equals-k](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0560-subarray-sum-equals-k) |
+## Stack
+|  |
+| ------- |
+| [1048-clumsy-factorial](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/1048-clumsy-factorial) |
 <!---LeetCode Topics End-->
