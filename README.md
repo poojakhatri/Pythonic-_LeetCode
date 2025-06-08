@@ -76,10 +76,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0125-valid-palindrome](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0273-integer-to-english-words) |
+| [0316-remove-duplicate-letters](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0344-reverse-string) |
 ## Greedy
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 ## Simulation
 |  |
@@ -118,6 +120,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0316-remove-duplicate-letters](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1048-clumsy-factorial](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/1048-clumsy-factorial) |
 ## Counting
 |  |
@@ -127,4 +130,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0074-search-a-2d-matrix](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0074-search-a-2d-matrix) |
+## Monotonic Stack
+|  |
+| ------- |
+| [0316-remove-duplicate-letters](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0316-remove-duplicate-letters) |
 <!---LeetCode Topics End-->
