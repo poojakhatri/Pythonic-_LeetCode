@@ -78,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0344-reverse-string) |
+| [0812-rotate-string](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0812-rotate-string) |
 ## Greedy
 |  |
 | ------- |
@@ -134,4 +135,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0316-remove-duplicate-letters) |
+## String Matching
+|  |
+| ------- |
+| [0812-rotate-string](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0812-rotate-string) |
 <!---LeetCode Topics End-->
