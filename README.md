@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0349-intersection-of-two-arrays](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0560-subarray-sum-equals-k) |
+| [1651-shuffle-string](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/1651-shuffle-string) |
 | [2212-removing-minimum-and-maximum-from-array](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/2212-removing-minimum-and-maximum-from-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0316-remove-duplicate-letters](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0344-reverse-string) |
 | [0812-rotate-string](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0812-rotate-string) |
+| [1651-shuffle-string](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/1651-shuffle-string) |
 ## Greedy
 |  |
 | ------- |
