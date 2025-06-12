@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0344-reverse-string) |
 | [0349-intersection-of-two-arrays](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0349-intersection-of-two-arrays) |
+| [0392-is-subsequence](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0392-is-subsequence) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Sorting
 |  |
@@ -80,6 +81,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0273-integer-to-english-words](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [0344-reverse-string](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0344-reverse-string) |
+| [0392-is-subsequence](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0409-longest-palindrome) |
 | [0812-rotate-string](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0812-rotate-string) |
 | [1651-shuffle-string](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/1651-shuffle-string) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0152-maximum-product-subarray) |
+| [0392-is-subsequence](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0392-is-subsequence) |
 ## Recursion
 |  |
 | ------- |
