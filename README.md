@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0001-two-sum) |
+| [0076-minimum-window-substring](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0076-minimum-window-substring) |
 | [0169-majority-element](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0169-majority-element) |
 | [0349-intersection-of-two-arrays](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0349-intersection-of-two-arrays) |
 | [0409-longest-palindrome](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0409-longest-palindrome) |
@@ -77,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0273-integer-to-english-words) |
 | [0316-remove-duplicate-letters](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0316-remove-duplicate-letters) |
@@ -147,4 +149,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0812-rotate-string](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0812-rotate-string) |
+## Sliding Window
+|  |
+| ------- |
+| [0076-minimum-window-substring](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0076-minimum-window-substring) |
 <!---LeetCode Topics End-->
