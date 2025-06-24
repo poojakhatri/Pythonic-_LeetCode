@@ -8,5 +8,4 @@ class Solution(object):
         for char in s:
             if char.isalnum():
                 palindrome += char.lower()
-        return palindrome == palindrome [::-1]
-        
+        return palindrome == palindrome[::-1]
