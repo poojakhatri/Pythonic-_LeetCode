@@ -112,6 +112,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0189-rotate-array](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0189-rotate-array) |
 | [0273-integer-to-english-words](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0273-integer-to-english-words) |
+| [1013-fibonacci-number](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/1013-fibonacci-number) |
 | [1048-clumsy-factorial](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/1048-clumsy-factorial) |
 | [3581-the-two-sneaky-numbers-of-digitville](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/3581-the-two-sneaky-numbers-of-digitville) |
 ## Dynamic Programming
@@ -120,10 +121,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0053-maximum-subarray](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0053-maximum-subarray) |
 | [0152-maximum-product-subarray](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0152-maximum-product-subarray) |
 | [0392-is-subsequence](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0392-is-subsequence) |
+| [1013-fibonacci-number](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/1013-fibonacci-number) |
 ## Recursion
 |  |
 | ------- |
 | [0273-integer-to-english-words](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0273-integer-to-english-words) |
+| [1013-fibonacci-number](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/1013-fibonacci-number) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -153,4 +156,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0076-minimum-window-substring](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0076-minimum-window-substring) |
+## Memoization
+|  |
+| ------- |
+| [1013-fibonacci-number](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/1013-fibonacci-number) |
 <!---LeetCode Topics End-->
