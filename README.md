@@ -108,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0196-delete-duplicate-emails](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0196-delete-duplicate-emails) |
 | [0577-employee-bonus](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0577-employee-bonus) |
 | [0595-big-countries](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0595-big-countries) |
+| [1258-article-views-i](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/1258-article-views-i) |
 | [1908-recyclable-and-low-fat-products](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/1908-recyclable-and-low-fat-products) |
 ## Math
 |  |
