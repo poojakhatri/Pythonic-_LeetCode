@@ -86,6 +86,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0392-is-subsequence](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0392-is-subsequence) |
 | [0409-longest-palindrome](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0409-longest-palindrome) |
 | [0812-rotate-string](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0812-rotate-string) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1651-shuffle-string](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/1651-shuffle-string) |
 ## Greedy
 |  |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0316-remove-duplicate-letters](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0316-remove-duplicate-letters) |
 | [1048-clumsy-factorial](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/1048-clumsy-factorial) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Counting
 |  |
 | ------- |
