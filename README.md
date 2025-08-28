@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0015-3sum](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0015-3sum) |
 | [0018-4sum](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0018-4sum) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0075-sort-colors](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0075-sort-colors) |
 | [0125-valid-palindrome](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0189-rotate-array) |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0076-minimum-window-substring](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0076-minimum-window-substring) |
 | [0125-valid-palindrome](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0125-valid-palindrome) |
 | [0273-integer-to-english-words](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0273-integer-to-english-words) |
@@ -159,6 +161,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0812-rotate-string](https://github.com/poojakhatri/Pythonic-_LeetCode/tree/master/0812-rotate-string) |
 ## Sliding Window
 |  |
