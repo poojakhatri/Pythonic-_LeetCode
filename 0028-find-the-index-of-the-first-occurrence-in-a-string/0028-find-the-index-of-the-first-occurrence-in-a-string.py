@@ -5,12 +5,7 @@ class Solution(object):
         :type needle: str
         :rtype: int
         """
-        if haystack == "" and needle == "":
-            return 0
-        if needle =="":
-            return 0
-        count = haystack.find(needle)
-        if count >= 0:
-            return count
-        else:
-            return -1
+        for i in range(len(haystack)- len(needle) + 1):
+            if (haystack[i:i+len(needle)]) == needle:
+                return i
+        return -1
